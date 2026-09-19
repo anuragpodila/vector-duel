@@ -20,9 +20,9 @@ Quick Start
 Prerequisites
 Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
-Installation
+Installation:
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/anuragpodila/vector-duel.git](https://github.com/anuragpodila/vector-duel.git)
-   cd vector-duel
+1. clone repo: git clone https://github.com/anuragpodila/vector-duel.git
+cd vector-duel
+2. install dependencies: npm install
+3. run: npm run dev
